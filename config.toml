@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "github.com/mcdwayne/twanshabone.club/public"
 languageCode = "en-us"
 title = "Twan Shabone Fan Club"
 theme = "mero"
